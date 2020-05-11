@@ -1,7 +1,6 @@
 # Simple-K-NN-implementaion-from-scratch
 
-
-Pseudocode forimplementing K-NN algorithm:
+# Pseudocode for implementing K-NN algorithm :
 
 Intialize value for 'k'
 
